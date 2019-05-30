@@ -1,5 +1,8 @@
 # CV-Papers
-[Image Segmentation](#ImageSegmentation)
+[Image Segmentation](#ImageSegmentation)  
+[Object Detection/Classification](#ObjectDetection/Classification)  
+[GAN](#GAN)  
+[Super Resolution](#SuperResolution)
 
 ## Image Segmentation
 * Few-shot 3D Multi-modal Medical Image Segmentation using Generative Adversarial Learning  
